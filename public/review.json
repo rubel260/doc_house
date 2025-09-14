@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "patient_name": "Rahim Uddin",
+    "doctor_name": "Dr. Ayesha Rahman",
+    "service_name": "Teeth Cleaning",
+    "review_text": "The doctor was very professional and explained everything clearly. My teeth feel super clean now!",
+    "rating": 5,
+    "date": "2025-08-01",
+    "location": "Dhaka Dental Clinic, Dhaka"
+  },
+  {
+    "id": 2,
+    "patient_name": "Sophia Akter",
+    "doctor_name": "Dr. Tanvir Ahmed",
+    "service_name": "Root Canal Treatment",
+    "review_text": "The root canal was painless compared to what I expected. Dr. Tanvir was very gentle.",
+    "rating": 4,
+    "date": "2025-07-28",
+    "location": "Smile Care Dental, Chittagong"
+  },
+  {
+    "id": 3,
+    "patient_name": "Arif Hasan",
+    "doctor_name": "Dr. Farhana Karim",
+    "service_name": "Braces Consultation",
+    "review_text": "Very helpful consultation. I got a clear idea about braces options and cost.",
+    "rating": 5,
+    "date": "2025-07-20",
+    "location": "Modern Dental Center, Sylhet"
+  },
+  {
+    "id": 4,
+    "patient_name": "Mehedi Hossain",
+    "doctor_name": "Dr. Rezaul Islam",
+    "service_name": "Wisdom Tooth Extraction",
+    "review_text": "The extraction was quick and I didn’t feel much pain. The doctor made me feel comfortable.",
+    "rating": 4,
+    "date": "2025-07-15",
+    "location": "Prime Dental Care, Dhaka"
+  },
+  {
+    "id": 5,
+    "patient_name": "Nusrat Jahan",
+    "doctor_name": "Dr. Nusrat Hossain",
+    "service_name": "Teeth Whitening",
+    "review_text": "Amazing results! My teeth are much whiter now. Definitely worth the price.",
+    "rating": 5,
+    "date": "2025-07-10",
+    "location": "White Smile Dental, Khulna"
+  }
+]

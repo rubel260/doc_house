@@ -1,0 +1,67 @@
+[
+  {
+
+    "service_name": "Teeth Cleaning",
+    "doctor_name": "Dr. Ayesha Rahman",
+    "category": "General Dentistry",
+    "doctor_image": "https://i.ibb.co/gLMNyJMq/Beauty-Plus-20170226152757-save.jpg",
+    "price": 50,
+    "currency": "USD",
+    "rating": 4.8,
+    "location": "Dhaka Dental Clinic, Dhaka",
+    "availability": "Mon-Fri, 10AM - 6PM",
+    "duration": "45 minutes"
+  },
+  {
+
+    "service_name": "Root Canal Treatment",
+    "doctor_name": "Dr. Tanvir Ahmed",
+    "doctor_image": "https://i.ibb.co/gLMNyJMq/Beauty-Plus-20170226152757-save.jpg",
+    "category": "Endodontics",
+    "price": 200,
+    "currency": "USD",
+    "rating": 4.7,
+    "location": "Smile Care Dental, Chittagong",
+    "availability": "Sat-Thu, 11AM - 8PM",
+    "duration": "90 minutes"
+  },
+  {
+
+    "service_name": "Dental Braces Consultation",
+    "doctor_name": "Dr. Farhana Karim",
+    "doctor_image": "https://i.ibb.co/gLMNyJMq/Beauty-Plus-20170226152757-save.jpg",
+    "category": "Orthodontics",
+    "price": 30,
+    "currency": "USD",
+    "rating": 4.6,
+    "location": "Modern Dental Center, Sylhet",
+    "availability": "Mon-Sat, 9AM - 5PM",
+    "duration": "30 minutes"
+  },
+  {
+
+    "service_name": "Wisdom Tooth Extraction",
+    "doctor_name": "Dr. Rezaul Islam",
+    "doctor_image": "https://i.ibb.co/gLMNyJMq/Beauty-Plus-20170226152757-save.jpg",
+    "category": "Oral Surgery",
+    "price": 120,
+    "currency": "USD",
+    "rating": 4.9,
+    "location": "Prime Dental Care, Dhaka",
+    "availability": "Mon-Fri, 2PM - 8PM",
+    "duration": "60 minutes"
+  },
+  {
+   
+    "service_name": "Teeth Whitening",
+    "doctor_name": "Dr. Nusrat Hossain",
+    "doctor_image": "https://i.ibb.co/gLMNyJMq/Beauty-Plus-20170226152757-save.jpg",
+    "category": "Cosmetic Dentistry",
+    "price": 100,
+    "currency": "USD",
+    "rating": 4.5,
+    "location": "White Smile Dental, Khulna",
+    "availability": "Tue-Sun, 12PM - 7PM",
+    "duration": "75 minutes"
+  }
+]
